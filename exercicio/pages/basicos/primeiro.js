@@ -1,3 +1,3 @@
 export default function primeiro(){
-    return "primeiro";
+    return "primeiro teste";
 }
