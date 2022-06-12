@@ -10,7 +10,7 @@ export default function ContadorDisplay(props) {
             borderRadius: "50%",
             margin:"10px",
         }}>
-            {props.value}
+            {props.numero}
         </div>
     )
 }
